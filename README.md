@@ -1,4 +1,4 @@
-# 巴黎经典婚纱影楼
+# Paris classic wedding studio
 
 <p align="center">
   <a href="https://github.com/vuejs/vue">

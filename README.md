@@ -9,3 +9,17 @@
 </p>
 
 简体中文 | [English](./README.en-UK.md)
+
+
+## Donate
+
+如果你觉得这个项目帮助到了你，你可以帮作者买一杯果汁表示鼓励
+![Alipay](./public/img/Alipay.png)
+
+![WeChat](./public/img/WeChat.png)
+
+## License
+
+[MIT]()
+
+Copyright (c) 2017-present Robin

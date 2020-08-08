@@ -14,7 +14,7 @@
 ## Donate
 
 如果你觉得这个项目帮助到了你，你可以帮作者买一杯果汁表示鼓励
-![Alipay](./public/img/Alipay.png)
+![Alipay](./public/img/Alipay.jpg)
 
 ![WeChat](./public/img/WeChat.png)
 

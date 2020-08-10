@@ -4,6 +4,7 @@
       <article>
         <aside class="aside_bg">
           aside
+          <button>按钮</button>
         </aside>
         <main>
           main
@@ -17,6 +18,6 @@
   height: 100vh;
   width: 300px;
   border: 1px solid red;
-  background-image: url('');
+  background-image: url('./images/sidebar-1.jpg')
 }
 </style>

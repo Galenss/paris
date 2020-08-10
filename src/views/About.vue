@@ -18,6 +18,6 @@
   height: 100vh;
   width: 300px;
   border: 1px solid red;
-  background-image: url('./images/sidebar-1.jpg')
+  background-image: url('./images/sidebar-1.jpg'),linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
 }
 </style>
